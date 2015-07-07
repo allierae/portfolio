@@ -1,0 +1,121 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis|Carrois+Gothic+SC);
+
+body {
+  background-color: #2C3E50;
+}
+
+.tiptop img {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+  border: 2px solid #BDC3C7;
+  overflow: hidden;
+  border-radius: 5px;
+  
+
+}
+
+.tiptop ul li {
+  display: inline;
+  color: #BDC3C7;
+  font-family: "Carrois Gothic SC";
+  font-size: 200%;
+}
+
+ul {
+  text-align: center;
+}
+
+header {
+  width: 100%;
+  background-color: #22313F;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.welcome img{
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+  margin: 0 auto;
+  
+}
+
+.welcome ul li {
+  display: inline;
+  font-size: 500%;
+  font-family: "Carrois Gothic SC";
+  text-align: center;
+  color: #C0392B;
+}
+
+
+.welcome {
+  width: 100%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+
+}
+
+hr {
+  color: #BDC3C7;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.end ul li {
+  display: inline;
+  color: #BDC3C7;
+  font-family: "Carrois Gothic SC";
+  font-size: 200%;
+}
+
+
+
+
+.content h3 {
+  float: left;
+  font-family: "Carrois Gothic SC";
+  color: #47B247;
+  font-size: 300%;
+  width: 40%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  text-align: center;  
+  margin-top: 1%;
+  margin-bottom: 1%;
+
+
+  
+}
+
+.content p {
+  float: right;
+  font-family: "Dosis";
+  color: #BDC3C7;
+  width: 50%;
+  text-align: left;
+  font-size: 130%;
+}
+
+
+
+.content {
+  background-color: #22313F;
+}
+
+body #about {
+  background: #22313F;
+}
+
